@@ -15,5 +15,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC
+# MAGIC transport.kristianuthushagen_featgh1121almeria_65ff812f_revenue.revenue_per_inhabitant
+# MAGIC transport.kristianuthushagen_featgh1121almeria_65ff812f_revenue.borough_population
+# MAGIC etc
 # MAGIC Answer here...

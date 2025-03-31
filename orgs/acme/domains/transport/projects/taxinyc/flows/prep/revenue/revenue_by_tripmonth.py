@@ -37,6 +37,10 @@ trips_df.display()
 
 # COMMAND ----------
 
+trips_df.count()
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC
 # MAGIC ### Revenue sum by pickup_borough

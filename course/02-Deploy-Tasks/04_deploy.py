@@ -46,8 +46,8 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC
-# MAGIC Answer here...
+# MAGIC A job is a prediefined task which can be run by triggering it. A job run is an instance of running a job.
+# MAGIC Analogous example: A job is to empty the dishwasher. A job run is the instance of emptying the dishwasher performed this morning.
 
 # COMMAND ----------
 
@@ -60,4 +60,9 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC The job name transport_taxinyc_prep_test_kristianuthushagen_featgh1121almeria_65ff812f consists of
+# MAGIC
+# MAGIC path_branch_id
+# MAGIC
+# MAGIC This is given by autojob
+# MAGIC
